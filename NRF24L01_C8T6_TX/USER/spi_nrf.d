@@ -1,0 +1,14 @@
+spi_nrf.o: SPI_NRF.c
+spi_nrf.o: SPI_NRF.h
+spi_nrf.o: ..\CMSIS\stm32f10x.h
+spi_nrf.o: ..\CMSIS\core_cm3.h
+spi_nrf.o: C:\Keil\ARM\RV31\INC\stdint.h
+spi_nrf.o: ..\CMSIS\system_stm32f10x.h
+spi_nrf.o: ..\USER\stm32f10x_conf.h
+spi_nrf.o: ..\FWlib\inc\stm32f10x_gpio.h
+spi_nrf.o: ..\CMSIS\stm32f10x.h
+spi_nrf.o: ..\FWlib\inc\stm32f10x_rcc.h
+spi_nrf.o: ..\FWlib\inc\stm32f10x_spi.h
+spi_nrf.o: ..\FWlib\inc\stm32f10x_usart.h
+spi_nrf.o: usart1.h
+spi_nrf.o: C:\Keil\ARM\RV31\INC\stdio.h
