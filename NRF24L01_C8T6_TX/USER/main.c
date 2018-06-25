@@ -7,6 +7,8 @@
  * ×÷Õß    £ºfire  QQ: 313303034 
  * ²©¿Í    £ºfirestm32.blog.chinaunix.net
 **********************************************************************************/
+
+/*slave mode*/
 #include "stm32f10x.h"
 #include "SPI_NRF.h"
 #include "usart1.h"
