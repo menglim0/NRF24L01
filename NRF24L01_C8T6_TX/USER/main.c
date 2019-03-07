@@ -7,6 +7,8 @@
  * 作者    ：fire  QQ: 313303034 
  * 博客    ：firestm32.blog.chinaunix.net
 **********************************************************************************/
+
+/*slave mode*/
 #include "stm32f10x.h"
 #include "SPI_NRF.h"
 #include "usart1.h"
@@ -15,6 +17,8 @@
 /* master branch0000*/
 
 /*  Branch1*/
+
+/*Slave mode branch1*/
 
 u8 status;	//用于判断接收/发送状态
 u8 txbuf[8]={0,1,2,3,0,1,2,3};	 //发送缓冲
