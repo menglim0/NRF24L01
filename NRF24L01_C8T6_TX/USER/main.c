@@ -1,14 +1,16 @@
-/******************** (C) COPYRIGHT 2012 野火嵌入式开发工作室 ********************
+/******************** (C) COPYRIGHT 2018 NRF24L01 development ********************
  * 文件名  ：main.c
  * 描述    ：NRF24L01无线传输测试实验        
- * 实验平台：野火STM32开发板	
+ * 实验平台：STM32F103C8T6	
  * 库版本  ：ST3.5.0
  *
- * 作者    ：fire  QQ: 313303034 
- * 博客    ：firestm32.blog.chinaunix.net
+ * 作者    ：Meng Liming
 **********************************************************************************/
 
+<<<<<<< Updated upstream
 /*slave mode*/
+=======
+>>>>>>> Stashed changes
 #include "stm32f10x.h"
 #include "SPI_NRF.h"
 #include "usart1.h"
