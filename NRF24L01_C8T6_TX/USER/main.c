@@ -11,6 +11,7 @@
 #include "SPI_NRF.h"
 #include "usart1.h"
 #include "adc.h"
+/* master branch1*/
 
 u8 status;	//用于判断接收/发送状态
 u8 txbuf[8]={0,1,2,3,0,1,2,3};	 //发送缓冲
